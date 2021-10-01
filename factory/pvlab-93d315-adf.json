@@ -1,0 +1,9 @@
+{
+	"name": "pvlab-93d315-adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "200d1ade-8e07-4e6d-b1e2-2a101c93719b",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
